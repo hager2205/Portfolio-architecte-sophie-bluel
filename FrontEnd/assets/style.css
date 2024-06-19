@@ -150,6 +150,11 @@ position: relative;
   background-color: black;
   color: white;
 }
+a {
+  text-decoration: none;
+color: #3D3D3D;
+  
+}
 
 
 header {
